@@ -1,36 +1,29 @@
-# Amazon.com Homepage Project Note
+## Portfolio-Website
+Portfolio website build using HTML5, CSS3, JavaScript , JSON and jQuery.
 
-## Project Overview
+<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
-The Amazon.com homepage project is a hands-on exercise in web development, focusing on the implementation of the front-end using HTML and CSS. The objective is to replicate the visual appearance and functionality of the Amazon.com homepage to enhance understanding and proficiency in these programming languages.
 
-## Learning Objectives
+## 📌 Tech Stack
+[![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=html)&nbsp;
+[![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)](https://github.com/jigar-sable/Portfolio-Website/search?l=css)&nbsp;
+[![JS](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://github.com/jigar-sable/Portfolio-Website/search?l=javascript)
+<img alt="jQuery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 
-1. **HTML Fundamentals**: Understanding the structure and semantics of HTML elements, including headers, paragraphs, lists, and links, to effectively organize content.
-2. **CSS Styling**: Applying CSS rules to enhance the visual presentation of the webpage, including layout, colors, typography, and responsive design principles.
-3. **Flexbox**: Utilizing Flexbox layout to create flexible and responsive designs, allowing for dynamic arrangements of elements.
-4. **Image Handling**: Incorporating images efficiently using HTML `<img>` tags and optimizing them for web display.
-5. **Navigation Implementation**: Implementing navigation bars and menus to facilitate user interaction and navigation within the webpage.
-6. **Responsive Design**: Ensuring compatibility and usability across various devices and screen sizes through responsive design techniques.
 
-## Project Structure
+## 📌 Sneak Peek of Main Page 🙈 :
+![mockup720](https://user-images.githubusercontent.com/64949957/124947013-1f682080-e02d-11eb-977e-df3bbd4fa838.png)
+![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
 
-The project will consist of HTML and CSS files organized as follows:
 
-- **HTML Files**: Containing the structural elements of the webpage, such as headers, navigation bars, product sections, and footers.
-- **CSS Files**: Styling the HTML elements to achieve the desired visual appearance, layout, and responsiveness.
-- **Image Assets**: Including images such as the Amazon logo, product images, and background images used within the webpage.
+<h2>📬 Contact</h2>
 
-## Implementation Steps
 
-1. **HTML Markup**: Begin by creating the basic HTML structure of the webpage, including header, navigation, product sections, and footer.
-2. **CSS Styling**: Apply CSS styles to customize the appearance of HTML elements, including colors, fonts, margins, and padding.
-3. **Layout Design**: Utilize Flexbox layout to arrange elements in a visually appealing and responsive manner.
-4. **Image Integration**: Insert images into the webpage using HTML `<img>` tags and adjust their sizes and positions using CSS.
-5. **Navigation Implementation**: Implement navigation bars and menus with appropriate links to navigate within the webpage or to external pages.
-6. **Responsive Design**: Ensure that the webpage is responsive by testing and adjusting its layout and styles for different screen sizes and devices.
+If you want to contact me, you can reach me through below handles.
 
-## Conclusion
+&nbsp;&nbsp;<a href="https://www.linkedin.com/in/taqiuddin-m-478ba426b/"><img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="30"></img></a>
 
-The Amazon.com homepage project provides an excellent opportunity to apply HTML and CSS programming skills to create a functional and visually appealing webpage. By completing this project, you will gain valuable experience in web development and strengthen your understanding of front-end technologies.
+© 2024 Mohammed Taqiuddin
 
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
